@@ -1,0 +1,3 @@
+# js-slider
+
+# A simple js-slide Project I implement some of js Method ,Event like DOM handel with Array.......
